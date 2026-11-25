@@ -25,6 +25,7 @@ The goal is to learn by doing, document the process, and keep track of my progre
 | 13 | [Private S3 with CloudFront](./lab-13-private-s3-with-cloudfront) | S3, CloudFront | Intermediate | Pending |
 | 14 | [Private RDS Database](./lab-14-private-rds-database) | RDS, EC2, VPC | Intermediate | Pending |
 | 15 | [Three-Tier Architecture](./lab-15-three-tier-architecture) | EC2, ALB, RDS, VPC | Advanced | Pending |
+| 16 | [Minecraft Server on AWS](./lab-16-minecraft-server) | EC2, EBS, VPC, Security Groups | Intermediate | Pending |
 
 **Status legend:** Completed · In Progress · Pending
 
