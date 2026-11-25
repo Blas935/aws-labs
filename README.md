@@ -6,7 +6,7 @@ The goal is to learn by doing, document the process, and keep track of my progre
 
 ---
 
-## Lab Index
+**Lab Index**
 
 | # | Lab | Services | Level | Status |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ Each lab is self-contained and includes:
 
 ---
 
-## What I'm currently working on
+**What I'm currently working on**
 
 
-### Lab 2 S3 Versioning and Lifecycle
+**Lab 2 S3 Versioning and Lifecycle**
 
 - Pending completion.
 
@@ -55,15 +55,10 @@ Each lab is self-contained and includes:
 - Screenshots are edited to hide account IDs, sensitive ARNs, and public IP addresses.
 - AWS resources are deleted after completing each lab.
 
-## Lab Environment
+**Lab Environment**
 
 - Platform: AWS Academy Cloud Foundations Sandbox
 - Provider: Amazon Web Services (AWS)
-
-
-- AWS Account
-- AWS Management Console
-- AWS CLI
 
 
 ## Author

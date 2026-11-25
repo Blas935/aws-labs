@@ -1,20 +1,17 @@
-# Lab 01 - Static Website Hosting on S3
+**Lab 01 - Static Website Hosting on S3**
 
 ## Overview
 
 The objective of this lab was to explore the basic capabilities of Amazon S3 by deploying a static website using HTML and CSS files.
 
-## Services Used
+**Services Used**
 
 - Amazon S3
 - AWS IAM
 
-## Lab Environment
 
-- AWS Academy Cloud Foundations Sandbox
-- AWS Management Console
 
-## What I Learned
+ **What I Learned**
 
 - How to create and configure an S3 bucket.
 - How to upload and manage static website files.
@@ -23,7 +20,7 @@ The objective of this lab was to explore the basic capabilities of Amazon S3 by 
 - How to manage object access and permissions.
 - Alternative approaches to website hosting, similar to GitHub Pages.
 
-## Security Considerations
+**Security Considerations**
 
 Public access should only be enabled when necessary. Bucket policies should follow the principle of least privilege, allowing visitors to read website files without granting unnecessary permissions.
 
@@ -33,6 +30,5 @@ This lab was really useful for understanding the basic capabilities of Amazon S3
 
 It also helped me understand alternative website hosting solutions and the importance of properly configuring access controls in cloud environments.
 
-## Status
 
-Completed
+**Completed**
