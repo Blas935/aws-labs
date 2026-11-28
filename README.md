@@ -11,7 +11,7 @@ The goal is to learn by doing, document the process, and keep track of my progre
 | # | Lab | Services | Level | Status |
 |---|---|---|---|---|
 | 01 | [Static Website on S3](./lab-01-s3-static-website) | S3, IAM | Beginner | Completed |
-| 02 | [S3 Versioning and Lifecycle](./lab-02-s3-versioning-and-lifecycle) | S3 | Beginner | Pending |
+| 02 | [S3 Versioning and Lifecycle](./lab-02-s3-versioning-and-lifecycle) | S3 | Beginner | Completed |
 | 03 | [IAM Users and Policies](./lab-03-iam-users-and-policies) | IAM | Beginner | Pending |
 | 04 | [EC2 Web Server](./lab-04-ec2-web-server) | EC2 | Beginner | Pending |
 | 05 | [EC2 Persistent Storage](lab-05-ec2-persistent-storage) | EC2, EBS | Beginner | Pending |
@@ -44,7 +44,7 @@ Each lab is self-contained and includes:
 **What I'm currently working on**
 
 
-**Lab 2 S3 Versioning and Lifecycle**
+**Lab 3 IAM Users and Policies**
 
 - Pending completion.
 
